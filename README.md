@@ -1,15 +1,16 @@
 ## Hi there, I’m Toye 👋
 
 ### 🚀 About Me
-- 🎓 CS @ Tufts University (also into Econ + Entrepreneurship)
-- 💡 Interests: Software Engineering, Product, AI/ML
-- ⚽ Fun: soccer, building projects, learning by shipping
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adetoye-adebayo/) • adebayo_adetoye@yahoo.com
+- 🎓 Computer Science @ Tufts University (also minoring in Economics + Entrepreneurship)
+- 💡 Interests: Product Management, Software Engineering, AI/ML, Finance
+- Working On: A dating app tailored to the Nigerian market
+- ⚽ Fun: soccer, building projects, volunteering
+- 📫 Reach me: adebayo_adetoye@yahoo.com
 
 ---
 
 ### 🌐 Socials
-- [LinkedIn](YOUR_LINKEDIN_LINK)
+- [LinkedIn](https://www.linkedin.com/in/adetoye-adebayo/)
 
 ---
 
