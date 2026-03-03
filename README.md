@@ -4,7 +4,7 @@
 - 🎓 CS @ Tufts University (also into Econ + Entrepreneurship)
 - 💡 Interests: Software Engineering, Product, AI/ML
 - ⚽ Fun: soccer, building projects, learning by shipping
-- 📫 Reach me: [LinkedIn](YOUR_LINKEDIN_LINK) • your@email.com
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/adetoye-adebayo/) • adebayo_adetoye@yahoo.com
 
 ---
 
